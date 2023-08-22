@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">A Passionate Blockchain Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Kumar-Cse&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik-Kumar-Cse" /> </p>
+
 
 - 🔭 I’m currently working on **Arcadia**
 
@@ -11,7 +14,7 @@
 
 - 📫 How to reach me **pratikkumar.cs.99@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1o5gybYcabW-W4wPtEAgzcm7VOHpNyFSIPeBoHMKkHeg/edit?pli=1](https://docs.google.com/document/d/1o5gybYcabW-W4wPtEAgzcm7VOHpNyFSIPeBoHMKkHeg/edit?pli=1)
+- 📄 Know about my experiences [Pratik-Kumar-Cse/Resume](https://docs.google.com/document/d/1o5gybYcabW-W4wPtEAgzcm7VOHpNyFSIPeBoHMKkHeg/edit?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
