@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
-<h3 align="center">A Passionate Blockchain Developer</h3>
+<h3 align="center">A Passionate Lead Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Kumar-Cse&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik-Kumar-Cse" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Deep learning and rust**
 
-- 👯 I’m looking to collaborate on **Blockchain**
+- 👯 I’m looking to collaborate on **Blockchain** **AI** **WEB3**
 
 - 💬 Ask me about **Blockchain**
 
