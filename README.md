@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [Pratik-Kumar-Cse/Resume](https://docs.google.com/document/d/1o5gybYcabW-W4wPtEAgzcm7VOHpNyFSIPeBoHMKkHeg/edit?pli=1)
 
+- My Portfolio : [link](https://pratik-kumar-cse.github.io/my-web)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-kumar-5840001a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-kumar-5840001a7" height="30" width="40" /></a>
